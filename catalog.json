@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/java-8-new",
+    "test_type": "K",
+    "description": "Assess candidate's knowledge of Java 8 features, core concepts, and ability to write clean Java code."
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/opq32r",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire measuring behavioral style at work. Good for finding culture fit and soft skills."
+  },
+  {
+    "name": "GSA",
+    "url": "https://www.shl.com/solutions/products/product-catalog/gsa",
+    "test_type": "A",
+    "description": "General Scenarios Assessment for evaluating situational judgment and problem-solving skills in general workplace scenarios."
+  },
+  {
+    "name": "Python 3 Developer",
+    "url": "https://www.shl.com/solutions/products/product-catalog/python-3-dev",
+    "test_type": "K",
+    "description": "Assess candidate's knowledge of Python 3, object-oriented programming, and web frameworks."
+  },
+  {
+    "name": "Leadership Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/leadership-potential",
+    "test_type": "P",
+    "description": "Identifies individuals with the traits and behaviors necessary to succeed in leadership roles."
+  }
+]
